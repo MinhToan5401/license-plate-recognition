@@ -1,0 +1,12 @@
+C:\Users\Minh Toan\OneDrive\Máy tính\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Minh Toan\OneDrive\Máy tính\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Minh Toan\OneDrive\Máy tính\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Minh Toan\OneDrive\Máy tính\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Minh Toan\OneDrive\desktop\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Minh Toan\OneDrive\desktop\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Minh Toan\OneDrive\desktop\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Minh Toan\OneDrive\desktop\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+D:\Download\HK222\4.0\nhandien_biensoxe\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\Download\HK222\4.0\nhandien_biensoxe\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+D:\Download\HK222\4.0\nhandien_biensoxe\Project2\Project2\x64\Debug\Project2.MyForm.resources
+D:\Download\HK222\4.0\nhandien_biensoxe\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
